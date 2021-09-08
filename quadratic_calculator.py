@@ -11,4 +11,4 @@ cvalue = input('Please type value C:')
 xvalue1 = (0-bvalue) + math.sqrt(((bvalue*bvalue)-(4*avalue*cvalue))/(2*avalue))
 xvalue2 = (0-bvalue) - math.sqrt(((bvalue*bvalue)-(4*avalue*cvalue))/(2*avalue))
 
-print("your x intercepts are equal to " xvalue1 " and " xvalue2)
+print("your x intercepts are equal to ", xvalue1, " and ", xvalue2)
